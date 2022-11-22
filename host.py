@@ -1,4 +1,4 @@
-#get host machine data
+#get host machine data 
 import platform
 import os
 from datetime import date
